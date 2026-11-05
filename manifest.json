@@ -1,0 +1,9 @@
+{
+  "id": "simple-habit-tracker",
+  "name": "Simple Habit Tracker",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Трекер привычек: отметки по дням, серии, неделя за неделей. Работает на компьютере и на iPhone.",
+  "author": "olegantnyj",
+  "isDesktopOnly": false
+}
